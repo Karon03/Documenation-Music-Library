@@ -14,7 +14,7 @@ Follow these steps to install and run the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Karon03/RR-Music-Library.git
+   git clone https://github.com/Karon03/Documenation-Music-Library
    cd RR-Music-Library
 
 2. Install dependencies:
@@ -33,7 +33,7 @@ If you would like to contribute to this project:
 
 1. Fork the repo:
     ```bash
-    git fork https://github.com/Karon03/RR-Music-Library.git
+    git fork https://github.com/Karon03/Documenation-Music-Library
 
 2. Create a new branch:
     ```bash
